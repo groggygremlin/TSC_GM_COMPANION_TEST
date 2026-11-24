@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "The Scattered Crown \u2014 GM Companion",
+  "short_name": "TSC GM",
+  "description": "A free offline companion for game masters of The Scattered Crown.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1d1d1d",
+  "theme_color": "#1d1d1d",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
